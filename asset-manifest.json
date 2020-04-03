@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.3431a3b1.chunk.css",
-    "main.js": "/static/js/main.52def151.chunk.js",
-    "main.js.map": "/static/js/main.52def151.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.1f1f19a3.js",
-    "runtime-main.js.map": "/static/js/runtime-main.1f1f19a3.js.map",
-    "static/css/2.de424728.chunk.css": "/static/css/2.de424728.chunk.css",
-    "static/js/2.6ecec8ab.chunk.js": "/static/js/2.6ecec8ab.chunk.js",
-    "static/js/2.6ecec8ab.chunk.js.map": "/static/js/2.6ecec8ab.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.8a05b824c6e9f07e692810ea0836ca1a.js": "/precache-manifest.8a05b824c6e9f07e692810ea0836ca1a.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.de424728.chunk.css.map": "/static/css/2.de424728.chunk.css.map",
-    "static/css/main.3431a3b1.chunk.css.map": "/static/css/main.3431a3b1.chunk.css.map",
-    "static/js/2.6ecec8ab.chunk.js.LICENSE.txt": "/static/js/2.6ecec8ab.chunk.js.LICENSE.txt",
-    "static/media/kone.png": "/static/media/kone.29357ec4.png",
-    "static/media/langham.png": "/static/media/langham.753cb62e.png"
+    "main.css": "http://qlicky.github.io/static/css/main.3431a3b1.chunk.css",
+    "main.js": "http://qlicky.github.io/static/js/main.172f6acc.chunk.js",
+    "main.js.map": "http://qlicky.github.io/static/js/main.172f6acc.chunk.js.map",
+    "runtime-main.js": "http://qlicky.github.io/static/js/runtime-main.cf3dde2d.js",
+    "runtime-main.js.map": "http://qlicky.github.io/static/js/runtime-main.cf3dde2d.js.map",
+    "static/css/2.de424728.chunk.css": "http://qlicky.github.io/static/css/2.de424728.chunk.css",
+    "static/js/2.6ecec8ab.chunk.js": "http://qlicky.github.io/static/js/2.6ecec8ab.chunk.js",
+    "static/js/2.6ecec8ab.chunk.js.map": "http://qlicky.github.io/static/js/2.6ecec8ab.chunk.js.map",
+    "index.html": "http://qlicky.github.io/index.html",
+    "precache-manifest.b302d2ae0a9cecef09c02b12a2f742ca.js": "http://qlicky.github.io/precache-manifest.b302d2ae0a9cecef09c02b12a2f742ca.js",
+    "service-worker.js": "http://qlicky.github.io/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "http://qlicky.github.io/static/css/2.de424728.chunk.css.map",
+    "static/css/main.3431a3b1.chunk.css.map": "http://qlicky.github.io/static/css/main.3431a3b1.chunk.css.map",
+    "static/js/2.6ecec8ab.chunk.js.LICENSE.txt": "http://qlicky.github.io/static/js/2.6ecec8ab.chunk.js.LICENSE.txt",
+    "static/media/kone.png": "http://qlicky.github.io/static/media/kone.29357ec4.png",
+    "static/media/langham.png": "http://qlicky.github.io/static/media/langham.753cb62e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.1f1f19a3.js",
+    "static/js/runtime-main.cf3dde2d.js",
     "static/css/2.de424728.chunk.css",
     "static/js/2.6ecec8ab.chunk.js",
     "static/css/main.3431a3b1.chunk.css",
-    "static/js/main.52def151.chunk.js"
+    "static/js/main.172f6acc.chunk.js"
   ]
 }
