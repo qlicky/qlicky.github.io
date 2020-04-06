@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "https://qlicky.github.io/static/css/main.3431a3b1.chunk.css",
-    "main.js": "https://qlicky.github.io/static/js/main.fad92393.chunk.js",
-    "main.js.map": "https://qlicky.github.io/static/js/main.fad92393.chunk.js.map",
+    "main.js": "https://qlicky.github.io/static/js/main.6000bf03.chunk.js",
+    "main.js.map": "https://qlicky.github.io/static/js/main.6000bf03.chunk.js.map",
     "runtime-main.js": "https://qlicky.github.io/static/js/runtime-main.6d6c7ea3.js",
     "runtime-main.js.map": "https://qlicky.github.io/static/js/runtime-main.6d6c7ea3.js.map",
     "static/css/2.de424728.chunk.css": "https://qlicky.github.io/static/css/2.de424728.chunk.css",
-    "static/js/2.d6c0a39b.chunk.js": "https://qlicky.github.io/static/js/2.d6c0a39b.chunk.js",
-    "static/js/2.d6c0a39b.chunk.js.map": "https://qlicky.github.io/static/js/2.d6c0a39b.chunk.js.map",
+    "static/js/2.3e65ecd3.chunk.js": "https://qlicky.github.io/static/js/2.3e65ecd3.chunk.js",
+    "static/js/2.3e65ecd3.chunk.js.map": "https://qlicky.github.io/static/js/2.3e65ecd3.chunk.js.map",
     "index.html": "https://qlicky.github.io/index.html",
-    "precache-manifest.1d6fd03fc185245f472954b61c0b7463.js": "https://qlicky.github.io/precache-manifest.1d6fd03fc185245f472954b61c0b7463.js",
+    "precache-manifest.c50202c4c8f5058b30118358d9172228.js": "https://qlicky.github.io/precache-manifest.c50202c4c8f5058b30118358d9172228.js",
     "service-worker.js": "https://qlicky.github.io/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "https://qlicky.github.io/static/css/2.de424728.chunk.css.map",
     "static/css/main.3431a3b1.chunk.css.map": "https://qlicky.github.io/static/css/main.3431a3b1.chunk.css.map",
-    "static/js/2.d6c0a39b.chunk.js.LICENSE.txt": "https://qlicky.github.io/static/js/2.d6c0a39b.chunk.js.LICENSE.txt",
+    "static/js/2.3e65ecd3.chunk.js.LICENSE.txt": "https://qlicky.github.io/static/js/2.3e65ecd3.chunk.js.LICENSE.txt",
     "static/media/kone.png": "https://qlicky.github.io/static/media/kone.29357ec4.png",
     "static/media/langham.png": "https://qlicky.github.io/static/media/langham.753cb62e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.6d6c7ea3.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.d6c0a39b.chunk.js",
+    "static/js/2.3e65ecd3.chunk.js",
     "static/css/main.3431a3b1.chunk.css",
-    "static/js/main.fad92393.chunk.js"
+    "static/js/main.6000bf03.chunk.js"
   ]
 }
