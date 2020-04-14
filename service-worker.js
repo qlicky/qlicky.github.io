@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://qlicky.github.io/precache-manifest.a0506e06eefb22ca00bd3e2ed61b5c81.js"
+  "https://qlicky.github.io/precache-manifest.7b3f26e441d7d2191c72a09cc06a7d51.js"
 );
 
 self.addEventListener('message', (event) => {
